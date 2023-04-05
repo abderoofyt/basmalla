@@ -1,2 +1,1 @@
-# basmalla
-Basic Basmallah web html
+Basic Text Site with alternative layout.
